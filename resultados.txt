@@ -1,0 +1,9 @@
+12 - NUMBER
+2 - NUMBER
+* - TIMES
+3 - NUMBER
+7 - NUMBER
+* - TIMES
++ - PLUS
+10 - NUMBER
++ - PLUS
